@@ -11,4 +11,4 @@
 ## Aclaraciones
 <p> El archivo "ARQ 2 - Trabajo Laboratorio Final.pdf" explica detalladamente la resolución, incluyendo toda la investigación realizada y la configuración tanto de software como de hardware </p>
 
-<div align="center"> <img height=800 src="Proyecto.jpg"> </div>
+<div align="center"> <img height=800 src="p.jpg"> </div>
